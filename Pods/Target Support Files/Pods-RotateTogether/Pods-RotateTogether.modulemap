@@ -1,0 +1,6 @@
+framework module Pods_RotateTogether {
+  umbrella header "Pods-RotateTogether-umbrella.h"
+
+  export *
+  module * { export * }
+}
